@@ -1,0 +1,11 @@
+Package: goes-platina-mk1
+Version: 1.3.alpha.0
+Architecture: amd64
+Maintainer: Kevin Paul Herbert <kph@platinasystems.com>
+Installed-Size: 11944
+Depends: libc6 (>= 2.3.2)
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

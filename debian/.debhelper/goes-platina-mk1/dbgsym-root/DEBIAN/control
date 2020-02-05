@@ -1,0 +1,13 @@
+Package: goes-platina-mk1-dbgsym
+Package-Type: ddeb
+Source: goes-platina-mk1
+Version: 1.3.alpha.0
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Kevin Paul Herbert <kph@platinasystems.com>
+Installed-Size: 3966
+Depends: goes-platina-mk1 (= 1.3.alpha.0)
+Section: debug
+Priority: optional
+Description: debug symbols for goes-platina-mk1
+Build-Ids: 3ea86686fecfdbe34bc9d46b32e215a29d938d85
