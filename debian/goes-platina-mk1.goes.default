@@ -1,0 +1,9 @@
+# goes start arguments
+
+# ARGS: [-start URL] [-stop URL] [REDISD OPTIONS]...
+# URL:	goes command scripts that are sourced after starting or before stopping
+#	the embedded daemons; defaults: /etc/goes/{start,stop}
+#
+# See also, $(goes man redisd)
+
+#ARGS=""
