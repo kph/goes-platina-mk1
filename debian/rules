@@ -15,7 +15,7 @@
 export DEB_BUILD_OPTIONS=nostrip
 
 %:
-	dh $@
+	dh $@ --with bash-completion
 
 
 # dh_make generated override targets
