@@ -2,7 +2,6 @@ Source: goes-platina-mk1
 Section: unknown
 Priority: optional
 Maintainer: Kevin Paul Herbert <kph@platinasystems.com>
-Build-Depends: debhelper-compat (= 12)
 Standards-Version: 4.4.0
 Homepage: <insert the upstream URL, if relevant>
 #Vcs-Browser: https://salsa.debian.org/debian/goes-platina-mk1
